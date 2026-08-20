@@ -104,27 +104,12 @@ IoT-based smart door access system combining RFID and fingerprint authentication
 
 ---
 
-### 📊 GitHub Stats
-
-<!--
-  [TODO 4] These only look good if your GitHub activity backs them up:
-  - Make sure the 3 projects above are pushed as PUBLIC repos (not private)
-  - Make sure each repo has multiple meaningful commits (not a single "initial upload" commit)
-  - If stats currently look empty/sparse, that's a signal to push more of your real work first
--->
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trungnguyen-VNTN&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungnguyen-VNTN&layout=compact&theme=default&hide_border=true" />
+📊 GitHub Stats
+<p align="center"> 
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=trungnguyen-VNTN&layout=compact&theme=default&hide_border=true" /> 
 </p>
 
 ---
 
 <p align="center"><i>Thanks for stopping by — feel free to check out my pinned repos below ⬇️</i></p>
 
-<!--
-  [TODO 5] FINAL STEP AFTER PUBLISHING:
-  Go to your GitHub profile page, click "Customize your pins", and pin exactly these 3 repos
-  (Manga Management System, Product Shop, Smart Door Access System) so they appear right
-  below this README. This step is easy to forget but makes a big visual difference.
--->
