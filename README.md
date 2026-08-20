@@ -73,7 +73,7 @@ Collaborative web platform supporting manga creation, review, and publishing wor
 - Applied centralized exception handling and layered architecture (Controller–Service–Repository), improving maintainability across a codebase of **rough size**
 - Collaborated via Git in a team of **5**, using feature branches and pull requests
 
-🔗 [Repo](TODO_REPO_LINK) &nbsp;
+🔗 [Repo](https://github.com/quannguyen081006/SWP391_manga-creation-management-system-v2) &nbsp;
 
 #### 🔹 Product Shop
 Java web application for online product management, built with the MVC architecture, covering the full customer purchase flow from browsing to checkout.
@@ -87,7 +87,7 @@ Java web application for online product management, built with the MVC architect
 - Designed a database schema of tables covering products, orders, users, and inventory
 - Maintained a modular, layered project structure with Git-based version control
 
-🔗 [Repo](TODO_REPO_LINK) &nbsp;
+🔗 [Repo](https://github.com/trungnguyen-VNTN/Product-Shop) &nbsp;
 
 #### 🔹 Smart Door Access System
 IoT-based smart door access system combining RFID and fingerprint authentication with real-time access monitoring.
